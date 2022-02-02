@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## TCMG 412 Group 7's Website
 
 You can use the [editor on GitHub](https://github.com/tcmg-group-7/project-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
