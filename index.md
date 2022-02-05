@@ -1,6 +1,10 @@
-## TCMG 412 Group 7's Website
+# Welcome to Group 7's website from TCMG 412!
 
-You can use the [editor on GitHub](https://github.com/tcmg-group-7/project-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## What is TCMG 412?
+
+**TCMG 412** is a course offered at [Texas A&M University](https://www.tamu.edu/) within the Technology Management program that focuses on the principles of [DevOps](https://aws.amazon.com/devops/what-is-devops/) and addressing contemporary issues within the Information Technology field.
+
+![Texas A&M University](TAMU.jpeg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
