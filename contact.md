@@ -1,7 +1,7 @@
 # Contact us!
 
 <p align="center">
-  <a href="HOME">index.md</a> |
+  <a href="index.md">HOME</a> |
   <b>CONTACT</b><br>
 </p>
 
