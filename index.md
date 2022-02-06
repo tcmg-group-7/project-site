@@ -2,8 +2,9 @@
 
 ## What is TCMG 412?
 
-| HOME | [CONTACT](contact.md) |
-|  :-: |          :-:          |
+<p align="center">
+  <b>HOME</b><br> | <a href="contact.md">CONTACT</a>
+</p>
 
 **TCMG 412** is a course offered at [Texas A&M University](https://www.tamu.edu/) within the Technology Management program that focuses on the principles of [DevOps](https://aws.amazon.com/devops/what-is-devops/) and addressing contemporary issues within the Information Technology field.
 
