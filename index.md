@@ -25,5 +25,4 @@ DevOps is defined by Amazon as "DevOps is the combination of cultural philosophi
   </details>
 
 
-For more information, please contact us here:
-[CONTACT](contact.md)
+For more information, please contact us [here](contact.md)
