@@ -30,19 +30,20 @@ DevOps is defined by Amazon as "DevOps is the combination of cultural philosophi
   </p>
   </details>
 
-# Header 1
-## Header 2
-### Header 3
+<details><summary>DevOps Resources</summary>
+ <p>
+   
+[Effective Devops, Jennifer Davis, Ryn Daniels](https://learning.oreilly.com/library/view/effective-devops/9781491926291/) 
+   
+![Effective DevOps](https://user-images.githubusercontent.com/98439313/152725102-f405adab-38c5-4a1b-a073-b80d9b782ff6.jpeg)
 
-- Bulleted
-- List
+   
+  </p>
+  </details>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
