@@ -21,11 +21,7 @@ DevOps is defined by Amazon as "DevOps is the combination of cultural philosophi
 <details><summary>Who is Group 7?</summary>
  <p>
    
-  - Brett Liles
-  - Carley Kremer
-  - Jaityn Jackson
-  - Matt Zenger
-  - Shehzer Poonjani
+  Brett Liles, Carley Kremer, Jaityn Jackson, Matt Zenger, Shehzer Poonjani
    
   </p>
   </details>
