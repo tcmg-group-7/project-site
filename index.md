@@ -4,9 +4,11 @@
 
 [CONTACT](contact.md)
 
+![Texas A&M University](https://engineering.tamu.edu/biomedical/_files/_images/_content-images/tamu-aerial-21Sept2020.jpg)
+
 **TCMG 412** is a course offered at [Texas A&M University](https://www.tamu.edu/) within the Technology Management program that focuses on the principles of [DevOps](https://aws.amazon.com/devops/what-is-devops/) and addressing contemporary issues within the Information Technology field.
 
-![Texas A&M University](https://engineering.tamu.edu/biomedical/_files/_images/_content-images/tamu-aerial-21Sept2020.jpg)
+![DevOps](https://res.cloudinary.com/practicaldev/image/fetch/s--o15t6eTq--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://cl.ly/eb239f299fdd/Image%25202018-11-30%2520at%252012.24.10%2520PM.png)
 
 <details><summary>What is DevOps?</summary>
 <p>
@@ -19,28 +21,15 @@ DevOps is defined by Amazon as "DevOps is the combination of cultural philosophi
 <details><summary>Who is Group 7?</summary>
  <p>
    
-  Brett Liles
-  Carley Kremer
-  Jaityn Jackson
-  Matt Zenger
-  Shehzer Poonjani
+  - Brett Liles
+  - Carley Kremer
+  - Jaityn Jackson
+  - Matt Zenger
+  - Shehzer Poonjani
    
   </p>
   </details>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
