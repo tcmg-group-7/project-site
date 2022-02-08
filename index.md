@@ -27,8 +27,8 @@ DevOps is defined by Amazon as "DevOps is the combination of cultural philosophi
 <details><summary>What book do we use in 412?</summary>
  <p>
    
- [Effective Devops, Jennifer Davis, Ryn Daniels](https://learning.oreilly.com/library/view/effective-devops/9781491926291/) 
-   
+[Effective Devops, Jennifer Davis, Ryn Daniels](https://learning.oreilly.com/library/view/effective-devops/9781491926291/) 
+
 ![Effective DevOps](https://user-images.githubusercontent.com/98439313/152725102-f405adab-38c5-4a1b-a073-b80d9b782ff6.jpeg)
 
   <summary>Book description</summary> 
