@@ -27,11 +27,9 @@ DevOps is defined by Amazon as "DevOps is the combination of cultural philosophi
 <details><summary> What book do we use in 412?</summary>
  <p>
 
+<img title="Effective DevOps" alt="Effective DevOps" src="https://user-images.githubusercontent.com/98439313/152725102-f405adab-38c5-4a1b-a073-b80d9b782ff6.jpeg">
 
-[Effective Devops, Jennifer Davis, Ryn Daniels](https://learning.oreilly.com/library/view/effective-devops/9781491926291/) 
-
-![Effective DevOps](https://user-images.githubusercontent.com/98439313/152725102-f405adab-38c5-4a1b-a073-b80d9b782ff6.jpeg)
-
+ <h3> Book Summary </h3>
  Some companies think that adopting devops means bringing in specialists or a host of new tools. With this practical guide, you’ll learn why devops is a professional and cultural movement that calls for change from inside your organization. Authors Ryn Daniels and Jennifer Davis provide several approaches for improving collaboration within teams, creating affinity among teams, promoting efficient tool usage in your company, and scaling up what works throughout your organization’s inflection points.
 
 Devops stresses iterative efforts to break down information silos, monitor relationships, and repair misunderstandings that arise between and within teams in your organization. By applying the actionable strategies in this book, you can make sustainable changes in your environment regardless of your level within your organization.
@@ -43,8 +41,8 @@ Accelerate cultural direction by selecting tools and workflows that complement y
 Troubleshoot common problems and misunderstandings that can arise throughout the organizational lifecycle
 Learn from case studies from organizations and individuals to help inform your own devops journey
  
-  </p>
-  </details>
+</p>
+</details>
 
 
 For more information, please contact us [here](contact.md)
